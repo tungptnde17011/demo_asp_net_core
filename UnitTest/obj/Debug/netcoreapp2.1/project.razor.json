@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Volumes/D/Dev/SEM2/ASP.NETCore/ExamProject/UnitTest/UnitTest.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

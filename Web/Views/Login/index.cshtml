@@ -1,0 +1,13 @@
+@model Persistence.User
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login</h2>
+
+<form asp-action="Index" asp-controller="Login" method="POST">
+    <input type="text" asp-for="UserName" />
+    <input type="password" asp-for="UserPwd" />
+    <input type="submit" value="Login" />
+</form>
