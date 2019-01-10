@@ -1,0 +1,9 @@
+/Volumes/D/Dev/SEM2/ASP.NETCore/demo_asp_net_core/Persistence/bin/Release/netstandard2.0/Persistence.deps.json
+/Volumes/D/Dev/SEM2/ASP.NETCore/demo_asp_net_core/Persistence/bin/Release/netstandard2.0/Persistence.dll
+/Volumes/D/Dev/SEM2/ASP.NETCore/demo_asp_net_core/Persistence/bin/Release/netstandard2.0/Persistence.pdb
+/Volumes/D/Dev/SEM2/ASP.NETCore/demo_asp_net_core/Persistence/obj/Release/netstandard2.0/Persistence.csprojAssemblyReference.cache
+/Volumes/D/Dev/SEM2/ASP.NETCore/demo_asp_net_core/Persistence/obj/Release/netstandard2.0/Persistence.csproj.CoreCompileInputs.cache
+/Volumes/D/Dev/SEM2/ASP.NETCore/demo_asp_net_core/Persistence/obj/Release/netstandard2.0/Persistence.AssemblyInfoInputs.cache
+/Volumes/D/Dev/SEM2/ASP.NETCore/demo_asp_net_core/Persistence/obj/Release/netstandard2.0/Persistence.AssemblyInfo.cs
+/Volumes/D/Dev/SEM2/ASP.NETCore/demo_asp_net_core/Persistence/obj/Release/netstandard2.0/Persistence.dll
+/Volumes/D/Dev/SEM2/ASP.NETCore/demo_asp_net_core/Persistence/obj/Release/netstandard2.0/Persistence.pdb
